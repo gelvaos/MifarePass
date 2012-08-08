@@ -1,1 +1,6 @@
 This project is source code of utility to calculate MIFARE Password
+
+See the following blog posts for details:
+How to access to MIFARE memory - http://gelvaos.blogspot.fr/2010/12/how-to-access-to-mifare-memory.html
+
+How to calculate MIFARE password - http://gelvaos.blogspot.fr/2011/01/how-to-calculate-mifare-password.html
